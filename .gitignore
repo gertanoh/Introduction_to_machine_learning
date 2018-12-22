@@ -1,0 +1,5 @@
+enron_mail_20150507/
+maildir/
+emails_by_address
+*.pkl
+*.pyc
